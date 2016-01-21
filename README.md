@@ -5,3 +5,5 @@ mvn -U org.jenkins-ci.tools:maven-hpi-plugin:create
 	Enter the artifactId of your plugin (normally without '-plugin' suffix): test02
 OK
 
+import eclipse (import existing maven project)
+
